@@ -1,0 +1,14 @@
+C:\Users\SakthiDineshPownraj\OneDrive - Syncfusion\Desktop\DataStructures\Dictionary\bin\Debug\net8.0\Dictionary.exe
+C:\Users\SakthiDineshPownraj\OneDrive - Syncfusion\Desktop\DataStructures\Dictionary\bin\Debug\net8.0\Dictionary.deps.json
+C:\Users\SakthiDineshPownraj\OneDrive - Syncfusion\Desktop\DataStructures\Dictionary\bin\Debug\net8.0\Dictionary.runtimeconfig.json
+C:\Users\SakthiDineshPownraj\OneDrive - Syncfusion\Desktop\DataStructures\Dictionary\bin\Debug\net8.0\Dictionary.dll
+C:\Users\SakthiDineshPownraj\OneDrive - Syncfusion\Desktop\DataStructures\Dictionary\bin\Debug\net8.0\Dictionary.pdb
+C:\Users\SakthiDineshPownraj\OneDrive - Syncfusion\Desktop\DataStructures\Dictionary\obj\Debug\net8.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SakthiDineshPownraj\OneDrive - Syncfusion\Desktop\DataStructures\Dictionary\obj\Debug\net8.0\Dictionary.AssemblyInfoInputs.cache
+C:\Users\SakthiDineshPownraj\OneDrive - Syncfusion\Desktop\DataStructures\Dictionary\obj\Debug\net8.0\Dictionary.AssemblyInfo.cs
+C:\Users\SakthiDineshPownraj\OneDrive - Syncfusion\Desktop\DataStructures\Dictionary\obj\Debug\net8.0\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\SakthiDineshPownraj\OneDrive - Syncfusion\Desktop\DataStructures\Dictionary\obj\Debug\net8.0\Dictionary.dll
+C:\Users\SakthiDineshPownraj\OneDrive - Syncfusion\Desktop\DataStructures\Dictionary\obj\Debug\net8.0\refint\Dictionary.dll
+C:\Users\SakthiDineshPownraj\OneDrive - Syncfusion\Desktop\DataStructures\Dictionary\obj\Debug\net8.0\Dictionary.pdb
+C:\Users\SakthiDineshPownraj\OneDrive - Syncfusion\Desktop\DataStructures\Dictionary\obj\Debug\net8.0\Dictionary.genruntimeconfig.cache
+C:\Users\SakthiDineshPownraj\OneDrive - Syncfusion\Desktop\DataStructures\Dictionary\obj\Debug\net8.0\ref\Dictionary.dll
